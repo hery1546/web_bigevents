@@ -1,0 +1,12 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+    padding: 10px;
+}
+.layui-form{
+    width: 500px;
+}
+.layui-btn:first-child{
+    margin-left: 50px;
+}
